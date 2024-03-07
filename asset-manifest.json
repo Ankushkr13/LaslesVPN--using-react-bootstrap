@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/laslesvpn-react/static/css/main.30e22be0.css",
+    "main.js": "/laslesvpn-react/static/js/main.1137cec1.js",
+    "static/media/reddit.svg": "/laslesvpn-react/static/media/reddit.baed22e2aa4471e7d1323758d3b7811a.svg",
+    "static/media/Huge Global.svg": "/laslesvpn-react/static/media/Huge Global.529e6d52e3a2dea2fa5adcf23c9b14a2.svg",
+    "static/media/amazon.svg": "/laslesvpn-react/static/media/amazon.ecb31a21d98c06b16c352b104f788e59.svg",
+    "static/media/netflix.svg": "/laslesvpn-react/static/media/netflix.4d0c9476392c38bd51b69fb21d108947.svg",
+    "static/media/person3.svg": "/laslesvpn-react/static/media/person3.5a30c5e44f157ba9e57c53ed4418fd46.svg",
+    "static/media/spotify.svg": "/laslesvpn-react/static/media/spotify.716ee6c9d6111aba5afcbb726966ca96.svg",
+    "static/media/perosn2.svg": "/laslesvpn-react/static/media/perosn2.d5e049c09eb4b70fe3511a16de579c3d.svg",
+    "static/media/person1.svg": "/laslesvpn-react/static/media/person1.cc3a411653974ee97cbfdfa1cf21b368.svg",
+    "static/media/Illustration.svg": "/laslesvpn-react/static/media/Illustration.76cb6f700b6247382b7ffadc4cda47cd.svg",
+    "static/media/Illustration 2.svg": "/laslesvpn-react/static/media/Illustration 2.0c0222cd52f1479562f89ef1726c551e.svg",
+    "static/media/discord.svg": "/laslesvpn-react/static/media/discord.144789377a64b7108144812720cb9916.svg",
+    "static/media/Logo.svg": "/laslesvpn-react/static/media/Logo.535550d926f57e3befade05fb2e2eb5c.svg",
+    "static/media/Free.svg": "/laslesvpn-react/static/media/Free.dff3e894243222e155e1baf6450f481d.svg",
+    "static/media/star4.5.svg": "/laslesvpn-react/static/media/star4.5.f5891b3ca9b48b3b6d7c9248f8c386cc.svg",
+    "static/media/Instagram.svg": "/laslesvpn-react/static/media/Instagram.50f21ad32e930e6f4bfb84d534de512c.svg",
+    "static/media/Twitter.svg": "/laslesvpn-react/static/media/Twitter.ffa5ffc4de877ebea0341794c42ec553.svg",
+    "static/media/Server.svg": "/laslesvpn-react/static/media/Server.323a2875b0ca552b3eef20505886b210.svg",
+    "index.html": "/laslesvpn-react/index.html",
+    "static/media/Facebook.svg": "/laslesvpn-react/static/media/Facebook.076d121c6050b5840b84df1e60e1b0c8.svg",
+    "static/media/location.svg": "/laslesvpn-react/static/media/location.a4285534026d85f659e8ff98d9233441.svg",
+    "static/media/user.svg": "/laslesvpn-react/static/media/user.68a94e35761a589cb2cab51e09c565dd.svg",
+    "static/media/tick.svg": "/laslesvpn-react/static/media/tick.97eadc169325313fc9abfa3f09fa6990.svg",
+    "static/media/ticked.svg": "/laslesvpn-react/static/media/ticked.0fbcd0082626a61cc26a650dacea1cce.svg",
+    "main.30e22be0.css.map": "/laslesvpn-react/static/css/main.30e22be0.css.map",
+    "main.1137cec1.js.map": "/laslesvpn-react/static/js/main.1137cec1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e22be0.css",
+    "static/js/main.1137cec1.js"
+  ]
+}
